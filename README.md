@@ -1,5 +1,5 @@
 # Churn prediction (public SaaS dataset)
-
+  
 Last updated: 2026-03-23 (Europe/Copenhagen)
 
 This project trains a churn model on a public SaaS churn dataset (monthly customer snapshots) and provides a small CLI for download/train/evaluate/predict.
